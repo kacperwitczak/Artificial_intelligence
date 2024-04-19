@@ -3,7 +3,7 @@ This repository contains solutions to laboratory problems for the Artificial Int
 Laboratory Tasks:
 1. Regression
    a) Closed-Form solution
-   b) Gradient
+   b) Gradient Descent
 2. 0/1 Knapsack problem - Genetic Algorithm
 3. Connect4 - Minimax and Alphabeta pruning
 4. Titanic: Decision Tree and Random Forest binary classification
